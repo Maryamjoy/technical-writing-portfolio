@@ -10,11 +10,11 @@ Medical Doctor transitioning into Technical Writing, with experience creating us
 A capstone project focused on improving trust and safety in rental marketplaces through verification systems, user education, and compliance documentation.
 
 ## Portfolio Contents
-- Research and Product Documentation
-- Documentation Style Guide
-- User Guide and Technical Documentation
-- Trust, Safety and Compliance Documentation
-- Project README
+- SafeNest Project README
+- SafeNest Research and Product Documentation
+- SafeNest Documentation Style Guide
+- SafeNest User Guide and Technical Documentation
+- SafeNest Trust, Safety and Compliance Documentation
 
 ## Skills Demonstrated
 - Technical Documentation
@@ -23,3 +23,8 @@ A capstone project focused on improving trust and safety in rental marketplaces 
 - Documentation Standards
 - Information Architecture
 - Editing and Content Review
+
+  ## Contact
+
+- LinkedIn: www.linkedin.com/in/joy-abdulwahab-4b5392248
+- Email: peakwellholisticweknness@gmail.com
