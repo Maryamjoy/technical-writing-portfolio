@@ -4,7 +4,7 @@ Welcome to my technical writing portfolio showcasing research, user documentatio
 
 ## About Me
 
-Maryam Oyinkansola Abdulwahab Lawal is a Medical Doctor and Technical Writer with experience creating user documentation, research guides, policy documentation, onboarding materials, and product documentation.
+Maryam Oyinkansola Abdulwahab Lawal is a medical doctor and technical writer specializing in user documentation, research guides, policy documentation, onboarding materials, and product documentation.
 
 ## Featured Project
 
