@@ -31,5 +31,5 @@ A capstone project focused on improving trust and safety in rental marketplaces 
 
   ## Contact
 
-- LinkedIn: [Maryam Abdulwahab](https://www.linkedin.com/in/joy-abdulwahab-4b5392248)
+- LinkedIn: [Maryam Abdulwahab](https://www.linkedin.com/in/drjoyabdulwahab)
 - Email:    peakwellholisticwekness@gmail.com
